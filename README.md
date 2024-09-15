@@ -41,6 +41,8 @@ https://xaoxuu.com/wiki/stellar/examples/
 Issues: https://github.com/xaoxuu/hexo-theme-stellar/issues/
 
 Discussions: https://github.com/xaoxuu/hexo-theme-stellar/discussions/
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
 # Statement
 
 > [!CAUTION]  
